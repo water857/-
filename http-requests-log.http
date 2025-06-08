@@ -1,0 +1,607 @@
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "S2025002",
+  "name": "多喝点",
+  "gender": "男",
+  "userId": 3
+}
+
+<> 2025-06-08T023715.200.json
+
+###
+
+GET http://localhost:8080/api/students/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-08T021859.404.json
+
+###
+
+GET http://localhost:8080/api/students/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-08T021817.404.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-08T021802.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "S2025001",
+  "name": "令狐冲",
+  "gender": "男",
+  "userId": 2
+}
+
+<> 2025-06-08T021724.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T013239.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T012201.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T011322.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005354.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005335.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005334.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005333.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005332.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005331.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005330.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005328.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005323.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005318.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T005221.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "112304150142",
+  "name": "hjy",
+  "userId": 1
+}
+
+<> 2025-06-08T004209.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-08T004204.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 77
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "S2025001",
+  "name": "最终胜利者",
+  "userId": 1
+}
+
+<> 2025-06-08T002733.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-08T001220.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 100
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "S20250608001",
+  "name": "王牌飞行员",
+  "gender": "男",
+  "userId": 1
+}
+
+<> 2025-06-08T001215.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 117
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 1,
+  "studentNumber": "2023001",
+  "classId": 1231,
+  "userId": 1,
+  "gender": "male",
+  "name": "张三"
+}
+
+<> 2025-06-07T234847.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 87
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "studentNumber": "2023001",
+  "userId": 1,
+  "gender": "male",
+  "name": "张三"
+}
+
+<> 2025-06-07T234538.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 59
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "zhangsan",
+  "email": "zhangsan@example.com"
+}
+
+<> 2025-06-07T190456.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T185858.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "三",
+  "lastName": "张",
+  "email": "zhangsan@example.com"
+}
+
+<> 2025-06-07T185839.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T185834.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "三",
+  "lastName": "张",
+  "email": "zhangsan@example.com"
+}
+
+<> 2025-06-07T185744.500.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "三",
+  "lastName": "张",
+  "email": "zhangsan@example.com"
+}
+
+<> 2025-06-07T185736.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T184623.200.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T184558.200.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T184541.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "三",
+  "lastName": "张",
+  "email": "zhangsan@example.com"
+}
+
+<> 2025-06-07T184406.500.json
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-06-07T184342.200.json
+
+###
+
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=C8D9611B823FEEA19DCC3459BE1D09D4
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "三",
+  "lastName": "张",
+  "email": "zhangsan@example.com"
+}
+
+###
+
+GET http://localhost:8080/api/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+

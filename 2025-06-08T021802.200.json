@@ -1,0 +1,22 @@
+[
+  {
+    "id": 14,
+    "studentNumber": "112304150142",
+    "name": "hjy",
+    "gender": null,
+    "classId": null,
+    "userId": 1,
+    "createdAt": "2025-06-08T01:32:40",
+    "updatedAt": "2025-06-08T01:32:40"
+  },
+  {
+    "id": 15,
+    "studentNumber": "S2025001",
+    "name": "令狐冲",
+    "gender": "男",
+    "classId": null,
+    "userId": 2,
+    "createdAt": "2025-06-08T02:17:24",
+    "updatedAt": "2025-06-08T02:17:24"
+  }
+]
