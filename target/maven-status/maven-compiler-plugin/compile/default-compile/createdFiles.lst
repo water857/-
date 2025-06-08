@@ -1,0 +1,7 @@
+com\hejunyan\studentmanagementsystem\entity\Student.class
+com\hejunyan\studentmanagementsystem\StudentManagementSystemApplication.class
+com\hejunyan\studentmanagementsystem\service\impl\StudentServiceImpl.class
+com\hejunyan\studentmanagementsystem\repository\StudentRepository.class
+com\hejunyan\studentmanagementsystem\service\StudentService.class
+com\hejunyan\studentmanagementsystem\controller\StudentController.class
+com\hejunyan\studentmanagementsystem\SecurityConfig.class
